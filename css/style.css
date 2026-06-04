@@ -33,3 +33,10 @@ button {
     font-size: 1rem;
     cursor: pointer;
 }
+
+.logo {
+    width: 350px;
+    max-width: 90%;
+    display: block;
+    margin: 20px auto;
+}
