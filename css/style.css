@@ -93,3 +93,26 @@ nav a {
 nav a:hover {
     opacity: 0.7;
 }
+
+.about {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 120px 20px;
+    text-align: center;
+
+    border-top: 1px solid rgba(255,255,255,0.15);
+}
+
+.about h2 {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 40px;
+}
+
+.about p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 25px;
+    color: #d0d0d0;
+}
