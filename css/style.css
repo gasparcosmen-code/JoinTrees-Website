@@ -7,12 +7,14 @@ body {
 
 header {
     text-align: center;
-    padding: 20px;
+    padding: 20px 20px 0;
+
 }
 
 .hero {
     text-align: center;
-    padding: 40px 20px 120px;
+    padding: 20px 20px 120px;
+
 }
 
 .hero h2 {
@@ -39,10 +41,11 @@ button {
 }
 
 .logo {
-    width: 220px;
+    width: 260px;
     max-width: 80%;
     display: block;
-    margin: 30px auto;
+    margin: 20px auto 0;
+
 }
 
 nav {
