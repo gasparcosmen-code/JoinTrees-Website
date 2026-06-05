@@ -116,3 +116,53 @@ nav a:hover {
     margin-bottom: 25px;
     color: #d0d0d0;
 }
+
+.values {
+    padding: 120px 20px;
+    text-align: center;
+}
+
+.values h2 {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 60px;
+}
+
+.values-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.value-card {
+    border: 1px solid rgba(255,255,255,0.15);
+
+    padding: 40px;
+
+    background: rgba(255,255,255,0.02);
+
+    transition: all 0.3s ease;
+}
+
+.value-card h3 {
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    margin-bottom: 20px;
+}
+
+.value-card p {
+    color: #d0d0d0;
+    line-height: 1.8;
+}
+
+.value-card:hover {
+    transform: translateY(-5px);
+
+    border-color: rgba(255,255,255,0.35);
+}
