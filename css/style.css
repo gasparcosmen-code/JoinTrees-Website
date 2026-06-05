@@ -112,6 +112,8 @@ nav a:hover {
     text-transform: uppercase;
     letter-spacing: 3px;
     margin-bottom: 40px;
+
+    position: relative;
 }
 
 .about p {
@@ -131,6 +133,8 @@ nav a:hover {
     text-transform: uppercase;
     letter-spacing: 3px;
     margin-bottom: 60px;
+
+    position: relative;
 }
 
 .values-grid {
