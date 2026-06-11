@@ -147,13 +147,10 @@ nav a:hover {
 }
 
 .value-card {
-    border: 1px solid rgba(255,255,255,0.15);
-
-    padding: 40px;
-
-    background: rgba(255,255,255,0.02);
-
+    border: 1px solid #222;
+    padding: 50px 40px;
     transition: all 0.3s ease;
+
 }
 
 .value-card h3 {
