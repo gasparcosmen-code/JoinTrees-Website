@@ -153,8 +153,8 @@ nav a:hover {
     border: 1px solid #222;
     padding: 50px 40px;
     transition: all 0.3s ease;
-
     border-radius: 8px;
+    backgroung: rgba(255,255,255,0.02);
 
 }
 
