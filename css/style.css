@@ -159,11 +159,14 @@ nav a:hover {
 }
 
 .value-card h3 {
-    font-size: 1.4rem;
-    text-transform: uppercase;
-    letter-spacing: 2px;
+    font-size: 1.6rem;
+    font-weight: 700;
 
-    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+    margin-bottom: 25px;
+
 }
 
 .value-card p {
