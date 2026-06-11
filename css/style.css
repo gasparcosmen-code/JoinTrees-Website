@@ -180,7 +180,8 @@ nav a:hover {
 
 .about {
     text-align: center;
-    padding: 120px 20px;
+    padding: 120px 20px 60px;
+    
 }
 
 .about h2 {
@@ -192,7 +193,7 @@ nav a:hover {
 }
 
 .about-text {
-    max-width: 800px;
+    max-width: 835px;
     margin: 0 auto;
 }
 
