@@ -151,6 +151,8 @@ nav a:hover {
     padding: 50px 40px;
     transition: all 0.3s ease;
 
+    border-radius: 8px;
+
 }
 
 .value-card h3 {
