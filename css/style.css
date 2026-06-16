@@ -8,13 +8,11 @@ body {
 header {
     text-align: center;
     padding: 20px 20px 0;
-
 }
 
 .hero {
     text-align: center;
     padding: 0px 20px 120px;
-
 }
 
 .hero h2 {
@@ -23,7 +21,6 @@ header {
     letter-spacing: 2px;
     margin-bottom: 20px;
     text-transform: uppercase;
-
 }
 
 .hero p {
@@ -61,7 +58,6 @@ button:hover {
     border-color: #5a7a4e;
 
     color: white;
-
 }
 
 .logo {
@@ -69,7 +65,6 @@ button:hover {
     max-width: 80%;
     display: block;
     margin: 20px auto 0;
-
 }
 
 nav {
@@ -91,7 +86,6 @@ nav a {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 3px;
-    
 }
 
 nav a:hover {
@@ -108,7 +102,7 @@ nav a:hover {
 }
 
 .about h2 {
-    font-size: 2.5rem;
+    font-size: 2.8rem;
     text-transform: uppercase;
     letter-spacing: 3px;
     margin-bottom: 40px;
@@ -143,7 +137,6 @@ nav a:hover {
     gap: 40px;
     max-width: 1020px;
     margin: 0 auto;
-
 }
 
 .value-card {
@@ -157,7 +150,6 @@ nav a:hover {
     transition: all 0.3s ease;
 
     background: rgba(255,255,255,0.02);
-
 }
 
 .value-card h3 {
@@ -170,14 +162,12 @@ nav a:hover {
     margin-bottom: 25px;
 
     color: #ffffff;
-
 }
 
 .value-card p {
     color: #d0d0d0;
     line-height: 1.9;
     font-size: 1.05rem;
-    
 }
 
 .value-card:hover {
@@ -186,11 +176,10 @@ nav a:hover {
     border-color: #5a7a4e;
 
     background: rgba(90,122,78,0.08);
-
 }
 
 .about-text {
-    max-width: 785px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
@@ -199,5 +188,37 @@ nav a:hover {
     line-height: 2;
     color: #d8d8d8;
     margin-bottom: 40px;
-    
+}
+
+.vision {
+    max-width: 800px;
+    margin: 0 auto;
+
+    padding: 80px 20px 120px;
+
+    text-align: center;
+
+    border-top: 1px solid rgba(255,255,255,0.15);
+}
+
+.vision h2 {
+    font-size: 2.8rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+
+    margin-bottom: 50px;
+}
+
+.vision-text {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.vision-text p {
+    font-size: 1.3rem;
+    line-height: 2;
+
+    color: #d8d8d8;
+
+    margin-bottom: 40px;
 }
