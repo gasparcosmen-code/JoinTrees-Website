@@ -222,3 +222,60 @@ nav a:hover {
 
     margin-bottom: 40px;
 }
+
+footer {
+    text-align: center;
+
+    padding: 80px 20px 50px;
+
+    border-top: 1px solid rgba(255,255,255,0.15);
+}
+
+footer h3 {
+    font-size: 2rem;
+
+    letter-spacing: 4px;
+
+    margin-bottom: 20px;
+}
+
+.footer-slogan {
+    color: #bdbdbd;
+
+    margin-bottom: 40px;
+
+    font-size: 1rem;
+}
+
+.footer-links,
+.footer-social {
+    display: flex;
+
+    justify-content: center;
+
+    gap: 30px;
+
+    margin-bottom: 25px;
+}
+
+.footer-links a,
+.footer-social a {
+    color: white;
+
+    text-decoration: none;
+
+    transition: color 0.3s ease;
+}
+
+.footer-links a:hover,
+.footer-social a:hover {
+    color: #5a7a4e;
+}
+
+.footer-copy {
+    margin-top: 40px;
+
+    color: #888;
+
+    font-size: 0.9rem;
+}
